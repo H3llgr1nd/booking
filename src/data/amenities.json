@@ -1,0 +1,79 @@
+{
+  "amenities": [
+    {
+      "id": "l4567890-12gh-ijkl-1234-56789abcdef0",
+      "name": "Wifi",
+      "propertyIds": [
+        "g9012345-67ef-0123-4567-89abcdef0123",
+        "h0123456-78f0-1234-5678-9abcdef01234",
+        "j2345678-90f1-2345-6789-abcdef012345"
+      ]
+    },
+    {
+      "id": "m5678901-23ij-klmn-2345-6789abcdef01",
+      "name": "Gym",
+      "propertyIds": [
+        "h0123456-78f0-1234-5678-9abcdef01234"
+      ]
+    },
+    {
+      "id": "n6789012-34kl-mnop-3456-789abcdef012",
+      "name": "Pool",
+      "propertyIds": [
+        "j2345678-90f1-2345-6789-abcdef012345"
+      ]
+    },
+    {
+      "id": "o7890123-45lm-nopq-4567-89abcdef0123",
+      "name": "Kitchen",
+      "propertyIds": [
+        "g9012345-67ef-0123-4567-89abcdef0123",
+        "i1234567-89f0-1234-5678-9abcdef01234"
+      ]
+    },
+    {
+      "id": "p8901234-56mn-opqr-5678-9abcdef01234",
+      "name": "Air Conditioning",
+      "propertyIds": [
+        "i1234567-89f0-1234-5678-9abcdef01234"
+      ]
+    },
+    {
+      "id": "q9012345-67no-pqrs-6789-abcdef012345",
+      "name": "Heating",
+      "propertyIds": [
+        "g9012345-67ef-0123-4567-89abcdef0123",
+        "k3456789-01f2-3456-789a-bcdef0123456"
+      ]
+    },
+    {
+      "id": "r0123456-78op-qrst-789a-bcdef0123456",
+      "name": "Washer",
+      "propertyIds": [
+        "j2345678-90f1-2345-6789-abcdef012345",
+        "k3456789-01f2-3456-789a-bcdef0123456"
+      ]
+    },
+    {
+      "id": "s1234567-89pq-rstu-89ab-cdef01234567",
+      "name": "Dryer",
+      "propertyIds": [
+        "k3456789-01f2-3456-789a-bcdef0123456"
+      ]
+    },
+    {
+      "id": "t2345678-90qr-stuv-90bc-def012345678",
+      "name": "TV",
+      "propertyIds": [
+        "h0123456-78f0-1234-5678-9abcdef01234"
+      ]
+    },
+    {
+      "id": "u3456789-01rs-tuvw-01cd-ef0123456789",
+      "name": "Free Parking",
+      "propertyIds": [
+        "i1234567-89f0-1234-5678-9abcdef01234"
+      ]
+    }
+  ]
+}
